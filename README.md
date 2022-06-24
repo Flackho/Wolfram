@@ -1,8 +1,6 @@
 # Wolfram
 
 If you are an Epitech student, you should be aware thats cheating is forbidden.
-
-
 Epitech 2nd year project - Functional programming module
 
 
